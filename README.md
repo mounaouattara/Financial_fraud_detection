@@ -51,7 +51,5 @@ streamlit run app/streamlit_app.py
 ```
 
 ## Notes
-
-- The dataset is not included in this repository due to size and licensing.
 - Processed data and trained models will be generated locally.
 - This project was designed to simulate a real-world data analyst workflow.
